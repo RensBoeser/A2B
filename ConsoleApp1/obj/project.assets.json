@@ -674,11 +674,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\rensb\\Desktop\\development\\Personal\\A2B C#\\ConsoleApp1\\Akkers2Beurs.csproj",
+      "projectUniqueName": "C:\\Users\\rensb\\Desktop\\development\\Personal\\New folder\\A2B\\ConsoleApp1\\Akkers2Beurs.csproj",
       "projectName": "Akkers2Beurs",
-      "projectPath": "C:\\Users\\rensb\\Desktop\\development\\Personal\\A2B C#\\ConsoleApp1\\Akkers2Beurs.csproj",
+      "projectPath": "C:\\Users\\rensb\\Desktop\\development\\Personal\\New folder\\A2B\\ConsoleApp1\\Akkers2Beurs.csproj",
       "packagesPath": "C:\\Users\\rensb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rensb\\Desktop\\development\\Personal\\A2B C#\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\rensb\\Desktop\\development\\Personal\\New folder\\A2B\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

@@ -20,3 +20,14 @@ C:\Users\rensb\Desktop\development\Personal\A2B C#\ConsoleApp1\obj\Debug\netcore
 C:\Users\rensb\Desktop\development\Personal\A2B C#\ConsoleApp1\obj\Debug\netcoreapp2.0\Akkers2Beurs.AssemblyInfo.cs
 C:\Users\rensb\Desktop\development\Personal\A2B C#\ConsoleApp1\obj\Debug\netcoreapp2.0\Akkers2Beurs.dll
 C:\Users\rensb\Desktop\development\Personal\A2B C#\ConsoleApp1\obj\Debug\netcoreapp2.0\Akkers2Beurs.pdb
+C:\Users\rensb\Desktop\development\Personal\New folder\A2B\ConsoleApp1\bin\Debug\netcoreapp2.0\Akkers2Beurs.deps.json
+C:\Users\rensb\Desktop\development\Personal\New folder\A2B\ConsoleApp1\bin\Debug\netcoreapp2.0\Akkers2Beurs.runtimeconfig.json
+C:\Users\rensb\Desktop\development\Personal\New folder\A2B\ConsoleApp1\bin\Debug\netcoreapp2.0\Akkers2Beurs.runtimeconfig.dev.json
+C:\Users\rensb\Desktop\development\Personal\New folder\A2B\ConsoleApp1\bin\Debug\netcoreapp2.0\Akkers2Beurs.dll
+C:\Users\rensb\Desktop\development\Personal\New folder\A2B\ConsoleApp1\bin\Debug\netcoreapp2.0\Akkers2Beurs.pdb
+C:\Users\rensb\Desktop\development\Personal\New folder\A2B\ConsoleApp1\obj\Debug\netcoreapp2.0\Akkers2Beurs.csprojResolveAssemblyReference.cache
+C:\Users\rensb\Desktop\development\Personal\New folder\A2B\ConsoleApp1\obj\Debug\netcoreapp2.0\Akkers2Beurs.csproj.CoreCompileInputs.cache
+C:\Users\rensb\Desktop\development\Personal\New folder\A2B\ConsoleApp1\obj\Debug\netcoreapp2.0\Akkers2Beurs.AssemblyInfoInputs.cache
+C:\Users\rensb\Desktop\development\Personal\New folder\A2B\ConsoleApp1\obj\Debug\netcoreapp2.0\Akkers2Beurs.AssemblyInfo.cs
+C:\Users\rensb\Desktop\development\Personal\New folder\A2B\ConsoleApp1\obj\Debug\netcoreapp2.0\Akkers2Beurs.dll
+C:\Users\rensb\Desktop\development\Personal\New folder\A2B\ConsoleApp1\obj\Debug\netcoreapp2.0\Akkers2Beurs.pdb
