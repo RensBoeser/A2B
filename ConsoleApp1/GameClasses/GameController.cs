@@ -20,11 +20,7 @@ namespace Akkers2Beurs
 		public void NextTurn()
 		{
 			playerController.NextTurn();
-
-			drawManager.DrawBoard(board);
-			drawManager.DrawText($"{playerController.Current.Name}'s turn.");
-			drawManager.DrawDice(playerController.PlayerOne, playerController.PlayerTwo);
-			drawManager.DrawDeck(playerController.PlayerOne, playerController.PlayerTwo);
+			drawManager.NextTurnScene(board, playerController.PlayerOne, playerController.PlayerTwo);
 		}
 
 		public void SelectTile()

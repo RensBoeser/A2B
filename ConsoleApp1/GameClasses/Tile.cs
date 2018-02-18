@@ -21,10 +21,10 @@ namespace Akkers2Beurs
 			Color = ConsoleColor.Black;
 		}
 
-		public Tile(int form, IPlayer player)
+		public Tile(int form, IPlayer player, int rotation=0)
 		{
 			Form = form;
-			Rotation = 0;
+			Rotation = rotation;
 			PlayerName = player.Name;
 			Color = player.Color;
 		}
